@@ -1,7 +1,3 @@
-@font-face {
-    font-family: "Inter";
-    src: url('/assets/fonts/Inter-VariableFont_slnt\,wght.ttf');
-}
 
 :root {
     --white: hsl(0, 0%, 100%);
